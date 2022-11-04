@@ -14,7 +14,7 @@
   <!-- EN: glucosoid pump -->
   <GlucosoidPump.label>血糖增流泵</GlucosoidPump.label>
   <!-- EN: This device allows a deathrester to move faster after deathrest is complete. It pumps the body with extra muscle-signaling factors while cleaning waste products from muscle tissue. The effect lasts until the individual deathrests again. It must be connected to a deathrest casket to function.\n\nThis building must consume hemogen to function. -->
-  <GlucosoidPump.description>该装置能让死眠者在死眠结束后快速恢复其行动能力。它为身体泵送额外的肌肉信号因子，同时加快清除体内的代谢物。这种效果一直持续到再次进行死眠为止。该装置必须连接到死眠棺材才能发挥功能。\n\n这个设备需要消耗血原质才能正常运作。</GlucosoidPump.description>
+  <GlucosoidPump.description>该装置能让死眠者在死眠结束后快速恢复其行动能力。它为身体泵送额外的肌肉信号因子，同时加快清除肌肉组织的代谢物。这种效果一直持续到再次进行死眠为止。该装置必须连接到死眠棺材才能发挥功能。\n\n这个设备需要消耗血原质才能正常运作。</GlucosoidPump.description>
   <!-- EN: Hemogen -->
   <GlucosoidPump.comps.CompRefuelable.fuelLabel>血原质</GlucosoidPump.comps.CompRefuelable.fuelLabel>
   
